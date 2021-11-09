@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalhando na área de educação no setor público
 - 🌱 Estudando Sistemas de Informação (FIAP)
-- 😄 Pronomes: ele/dele
 
 ##
 
