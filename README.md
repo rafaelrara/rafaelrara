@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Atualmente trabalhando na área de educação no setor público
-- 🌱 Estudando Sistemas de Informação (FIAP)
+- 👨‍💻 Atualmente em transição de carreira
+- 🎓 Estudando Sistemas de Informação (FIAP)
+- 💻 Estudando curso FullStack (B7web)
 
 ##
 
