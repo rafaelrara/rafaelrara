@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 👨‍💻 Atualmente em transição de carreira
+- 👨‍💻 Transição de carreira
+- 🤓 Estágio Tech Cielo - Arquitetura Salesforce e qualidade
 - 🎓 Estudando Sistemas de Informação (FIAP)
 - 💻 Estudando curso FullStack (B7web)
 
