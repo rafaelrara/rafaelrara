@@ -2,8 +2,8 @@
 
 - 👨‍💻 Transição de carreira
 - 🤓 Estágio Tech Cielo - Arquitetura Salesforce e qualidade
-- 🎓 Estudando Sistemas de Informação (FIAP)
-- 💻 Estudando curso FullStack (B7web)
+- 🎓 Cursando Sistemas de Informação (FIAP)
+- 💻 Cursando FullStack (B7web)
 
 ##
 
