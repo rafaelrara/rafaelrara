@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 👨‍💻 Transição de carreira
-- 🤓 Estágio Tech Cielo - Arquitetura Salesforce e qualidade
-- 🎓 Cursando Sistemas de Informação (FIAP)
-- 💻 Cursando FullStack (B7web)
+- 👨‍💻 Career transition
+- 🤓 Tech Cielo internship - Salesforce architecture and quality
+- 🎓 Studying Information Systems (FIAP)
+- 💻 Studying FullStack (B7web)
 
 ##
 
@@ -20,6 +20,7 @@
 </div>
   
 ##
+
   
 <div> 
   <a href = "mailto:rafaelrar18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -27,7 +28,7 @@
  
 </div>
   
-## Total de visitas no meu perfil :detective: <br>
+## Total visits to my profile :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/rafaelrara/count.svg" />
  </p>
